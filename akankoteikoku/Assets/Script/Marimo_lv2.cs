@@ -2,20 +2,19 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Marimo_lv1 : MonoBehaviour
+public class Marimo_lv2 : MonoBehaviour
 {
-    // Start is called before the first frame update
     private Vector3 screenPoint;
     private Vector3 offset;
     void Start()
     {
-        
+
     }
 
     // Update is called once per frame
     void Update()
     {
-        
+
     }
     void OnMouseDown()
     {
